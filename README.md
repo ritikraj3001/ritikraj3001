@@ -10,7 +10,7 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 - 🎓 **As a Data Analyst transitioning my career from a Mechanical Engineering background to IT.** 
 - 📊 Strong working knowledge of **SQL, Python, Excel, Power BI, Tableau**
 - 🔍 Interested in **data-driven strategy, process optimization, and decision support systems**
-- 💼 Worked in **GEOSTEEL LLC, 'GEORGIA'** AS a Mechanical Maintenance Engineer
+- 💼 Worked in **GEOSTEEL LLC, 'Georgia'** AS a Mechanical Maintenance Engineer
   
 ---
 
@@ -22,7 +22,6 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 - Translate analytical results into **clear, business-focused recommendations**
 
 ---
-
 
 ## 🛠️ Tools & Skills
 
@@ -40,7 +39,6 @@ Banking | Supply Chain Analytics | Retail Decision-Making | Operations
 ## 🤝 Let's Connect
 - 💼 Email: *singhritik3550@gmail.com*
 - 💼 LinkedIn: *www.linkedin.com/in/ritikrajofficial*
-- 🧑‍💻 Portfolio / Projects: *ritikraj3001*
 
 ---
 
