@@ -26,7 +26,7 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 ## 🛠️ Tools & Skills
 
 ### Languages & Tools
-`SQL` | `Excel` | `Power BI` | 'Python'
+`SQL` | `Excel` | `Power BI` | `Python`
 
 ### Analytics Concepts
 EDA | KPI Analysis | Business Metrics
