@@ -8,7 +8,7 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 
 ## 🚀 About Me
 - 🎓 **As a Data Analyst transitioning my career from a Mechanical Engineering background to IT.** 
-- 📊 Strong working knowledge of **SQL, Python, Excel, Power BI, Tableau**
+- 📊 Strong working knowledge of **SQL, Excel, Power BI, Python**
 - 🔍 Interested in **data-driven strategy, process optimization, and decision support systems**
 - 💼 Worked in **GEOSTEEL LLC, 'Georgia'** AS a Mechanical Maintenance Engineer
   
@@ -26,7 +26,7 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 ## 🛠️ Tools & Skills
 
 ### Languages & Tools
-`SQL` | `Python` | `Excel` | `Power BI` | `Tableau`
+`SQL` | `Excel` | `Power BI` | 'Python'
 
 ### Analytics Concepts
 EDA | KPI Analysis | Business Metrics
