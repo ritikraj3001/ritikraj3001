@@ -27,7 +27,7 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 
 | Category                     | Tools & Tech |
 |-----------------------------|--------------|
-| **Data Analytics**          | Excel, Power BI, SQL ,Python |
+| **Data Analytics**          | Excel, SQL, Power BI, Python |
 | **Data Engineering Basics** | Power Query, ETL, DAX |
 | **Programming**             | Python (Pandas, NumPy), SQL |
 | **Version Control**         | Git, GitHub |
@@ -35,7 +35,7 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 
 ---
 
-## Domain Exposure
+## 🧰 Domain Exposure
 Banking | Supply Chain Analytics | Retail Decision-Making | Operations
 
 ---
