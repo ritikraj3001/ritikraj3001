@@ -23,15 +23,19 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 
 ---
 
-## 🛠️ Tools & Skills
+## 🛠️ My Tech Toolbox & Skills
 
-### Languages & Tools
-`SQL`  |  `Excel`  |  `Power BI`  |  `Python`
+| Category                     | Tools & Tech |
+|-----------------------------|--------------|
+| **Data Analytics**          | Excel, Power BI, SQL ,Python |
+| **Data Engineering Basics** | Power Query, ETL, DAX |
+| **Programming**             | Python (Pandas, NumPy), SQL |
+| **Version Control**         | Git, GitHub |
+| **Visualization**           | Power BI, Tableau |
 
-### Analytics Concepts
-EDA | KPI Analysis | Business Metrics
+---
 
-### Domain Exposure
+## Domain Exposure
 Banking | Supply Chain Analytics | Retail Decision-Making | Operations
 
 ---
