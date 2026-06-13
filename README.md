@@ -41,7 +41,7 @@ Banking | Supply Chain Analytics | Retail Decision-Making | Operations
 ---
 
 ## 🤝 Let's Connect
-- 💼 Email: *singhritik3550@gmail.com*
+- 📧 Email: *singhritik3550@gmail.com*
 - 💼 LinkedIn: *www.linkedin.com/in/ritikrajofficial*
 
 ---
