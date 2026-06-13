@@ -30,7 +30,7 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 | **Data Analytics**          | Excel, SQL, Power BI, Python |
 | **Data Engineering Basics** | Power Query, ETL, DAX |
 | **Programming**             | Python (Pandas, NumPy), SQL |
-| **Version Control**         | Git, GitHub |
+| **Version Control**         | GitHub |
 | **Visualization**           | Power BI, Tableau |
 
 ---
