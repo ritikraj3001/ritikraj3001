@@ -6,7 +6,7 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 - 🎓 **As a Data Analyst transitioning my career from a Mechanical Engineering background to IT.** 
 - 📊 Strong working knowledge of **SQL, Excel, Power BI, Python**
 - 🔍 Interested in **data-driven strategy, process optimization, and decision support systems**
