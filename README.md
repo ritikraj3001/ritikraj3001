@@ -6,12 +6,20 @@ As a Data Analyst specialize in converting **raw data into actionable insights**
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 **As a Data Analyst transitioning my career from a Mechanical Engineering background to IT.** 
-- 📊 Strong working knowledge of **SQL, Excel, Power BI, Python**
-- 🔍 Interested in **data-driven strategy, process optimization, and decision support systems**
-- 💼 Worked in **GEOSTEEL LLC, 'Georgia'** AS a Mechanical Maintenance Engineer
-  
+### 👨‍💻 About Me
+
+Welcome to my GitHub profile! I'm a Data entusiast dedicated to transforming complex datasets into clear, actionable insights. Proficient in SQL, Python and AI skills. I aim to blend technical skills with business insight to create impactful solutions.🚀📊
+
+---
+
+### 📌 Quick Facts About Me
+
+- 🎓 **B.Tech (Mechanical Engineering)** @ SIRT Bhopal  
+- 🎯 **Current Focus:** Data Analyst  
+- 🌱 **Learning:**  Excel, SQL, Power BI, Python
+- 💼 Worked in **GEOSTEEL LLC, 'Georgia'** AS a Mechanical Maintenance Engineer  
+- 🌍 **Fun Fact:** I love bridging the gap between creativity and data!
+
 ---
 
 ## 🧠 What I Deliver as a Data Analyst
